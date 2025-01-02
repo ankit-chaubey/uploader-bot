@@ -34,7 +34,7 @@ Welcome to the **Uploader Bot**! This Python-based bot is specifically designed 
   - **`Version 1.0`**: December 3, 2024 (Initial Release)
   - **`Version 2.0`**: January 2, 2025 (Major Update)
   - **`Version 2.1`**: January 2, 2025 (Current Update)
-- **License**: Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+- **License**: Licensed under the [License](LICENSE).
 
 ---
 
@@ -148,7 +148,7 @@ This bot is private and not yet publicly available for everyone. However, if you
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. 📜
+This project is licensed under the License. See the [LICENSE](LICENSE) file for more details. 📜
 
 
 ---
