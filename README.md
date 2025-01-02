@@ -10,6 +10,47 @@ Welcome to the **Uploader Bot**! This Python-based bot is specifically designed 
 - 🔧 **Network Handling**: If the bot encounters network issues or crashes, it saves the progress and resumes from where it left off. No uploads are lost! 🔄
   
 ---
+## 🔥 Update: Version 2.1 (Released: January 2, 2025)
+
+## 🆕 What's New
+### 1. **Enhanced Performance**
+- Introduced **cooling-down time** between uploads to prevent excessive CPU usage and avoid Telegram flood wait issues.
+- Boosted upload speed for smoother performance.
+
+### 2. **Improved Tracking**
+- Added real-time counters to track:
+  - **Uploaded** files.
+  - **Remaining** files.
+  - **Failed** uploads.
+
+### 3. **AI-Driven Error Handling**
+- Implemented **AI-based error detection and recovery**, reducing interruptions during uploads.
+
+### 4. **Eye Comfort in Terminal**
+- Enhanced color scheme for better readability and reduced eye strain.
+
+### 5. **Updated Release and License**
+- **Release History**:
+  - **`Version 1.0`**: December 3, 2024 (Initial Release)
+  - **`Version 2.0`**: January 2, 2025 (Major Update)
+  - **`Version 2.1`**: January 2, 2025 (Current Update)
+- **License**: Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## ⚠️ Important Notices
+- This bot is **strictly for private use**. Redistribution, publication, or selling is **prohibited**.
+- Before using, ensure you have the proper rights to utilize this bot.
+
+---
+
+## 🚀 Key Features Recap for update
+- **Real-time Upload Progress**: Displays uploaded, remaining, and failed counts.
+- **Cooling-Down Time**: Automatically pauses uploads briefly to prevent system overload and Telegram limits.
+- **Enhanced Console Output**: Optimized color-coded terminal messages for a professional and comfortable experience.
+- **AI Error Handling**: Automatically detects and resolves errors during uploads.
+
+---
 
 ## 🛠️ Requirements
 
@@ -105,27 +146,25 @@ This bot is private and not yet publicly available for everyone. However, if you
 
 ---
 
-#### 📝 License
+## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. 📜
 
 
 ---
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or would like to improve the bot, feel free to fork the repository and submit a pull request. Let's make this bot even better together! 💪
 
 
 ---
 
-### 💬 Contact
-
+## 📧 Contact Information
 For any questions or if you'd like to request access to the bot:
 
-📧 Email: [Contact](mailto:m.ankitchaubey@gmail.com)
-
-🔗 GitHub: [ankit-chaubey](https://github.com/ankit-chaubey)
+- **Email**: [m.ankitchaubey@gmail.com](mailto:m.ankitchaubey@gmail.com)
+- **Telegram**: [@ankit_chaubey](https://t.me/ankit_chaubey)
 
 ---
 
